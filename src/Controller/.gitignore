@@ -1,0 +1,20 @@
+.gitignore
+.idea/
+# This is a .gitignore file for a PHP project using the Symfony framework.
+# Ignore the vendor directory
+/vendor/
+# Ignore the var directory
+/var/
+# Ignore the .env file
+/.env
+# Ignore the .env.local file
+/.env.local
+# Ignore the .env.* files
+/.env.*
+# Ignore the .env.test file
+/.env.test
+# Ignore the .env.test.local file
+/.env.test.local
+# Ignore the .env.dev file
+/.env.dev
+
