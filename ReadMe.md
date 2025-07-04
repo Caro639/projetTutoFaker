@@ -5,7 +5,7 @@ Ce projet est un exercice d'apprentissage pour créer une base de données avec 
 ## Description
 
 L'objectif de cet exercice est de :
-- Configurer une base de données
+- Configurer une base de données avec le framework Symfony
 - Créer des fixtures avec des données factices
 - Utiliser [ZenstruckFoundryBundle](https://symfony.com/bundles/ZenstruckFoundryBundle/current/index.html) pour générer des données réalistes
 - Peupler la base de données avec ces données de test
@@ -16,6 +16,7 @@ L'objectif de cet exercice est de :
 - Composer
 - Base de données (MySQL, PostgreSQL, SQLite, etc.)
 - Serveur web (Apache, Nginx) ou PHP built-in server
+- Symfony 7.3
 
 ## Installation
 
